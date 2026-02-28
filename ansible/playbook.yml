@@ -1,7 +1,6 @@
 ---
 # WiFi-DensePose Ansible Playbook
 # This playbook configures servers for WiFi-DensePose deployment
-
 - name: Configure WiFi-DensePose Infrastructure
   hosts: all
   become: yes
